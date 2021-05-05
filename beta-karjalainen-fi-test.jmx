@@ -38,7 +38,11 @@
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
           <stringProp name="delimiter">,</stringProp>
           <stringProp name="fileEncoding"></stringProp>
+<<<<<<< HEAD
           <stringProp name="filename">/beta-urls.csv</stringProp>
+=======
+          <stringProp name="filename">/Users/prashantapaudel/Desktop/beta-urls.csv</stringProp>
+>>>>>>> eec166563f84ca1074a2fbbdd50b8e23e3c5b457
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">false</boolProp>
           <boolProp name="recycle">true</boolProp>
